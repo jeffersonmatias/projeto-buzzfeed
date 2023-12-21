@@ -1,0 +1,19 @@
+@media (max-width: 499px) {
+
+    * {
+        font-size: 15px;
+    }
+
+    .quizz_logo>img {
+        width: 300px;
+    }
+
+    .quizz_questions,
+    .quizz_results {
+        text-align: center;
+    }
+
+    .btn_option {
+        font-size: 12px;
+    }
+}
